@@ -1,0 +1,28 @@
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+namespace Matematica.test
+{
+
+	//Atributo
+	[TestClass]
+	public class CalculadoraTest
+	{
+		[TestMethod]
+		public void SumaDosNumeros()
+		{
+			//ToDo: Aqui va mi codino
+			//Arrange -> Preparacion
+			var numero1 = 7;
+			var numero2 = 10;
+			var respuesta = 17;
+
+			//Act->esta es la parte de ejecucuion ; Actuar
+
+			var respuestaObtenida= Sumar(numero1, numero2);
+
+			//Assert->Verificacion
+			Assert.AreEqual(esperado, respuestaObtenida);
+		}
+	}
+
+}
