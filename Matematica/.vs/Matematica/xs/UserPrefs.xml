@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Matematica PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Matematica/CalculadoraTest.cs">
     <Files>
-      <File FileName="Matematica/CalculadoraTest.cs" Line="36" Column="4" />
+      <File FileName="Matematica/CalculadoraTest.cs" Line="101" Column="4" />
       <File FileName="Matematica.Logica/Calculadora.cs" Line="44" Column="1" />
     </Files>
     <Pads>

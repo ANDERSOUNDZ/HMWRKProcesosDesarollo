@@ -8,7 +8,7 @@ namespace Matematica.test
 	[TestClass]
 	public class CalculadoraTest
 	{
-
+		
 		[TestMethod]
 		public void SumaDosNumeros()
 		{
@@ -107,9 +107,20 @@ namespace Matematica.test
 			var numeroPiConDosDecimales = 3.14;
 
 			var calculadora = new Calculadora();
-			//var resultado = calculadora.TomarDosDecimales(numeroPiConCincoDecimales);
+			var resultado = calculadora.TomarDosDecimales(numeroPiConCincoDecimales);
 
-			//Assert.AreEqual(numeroPiConDosDecimales, resultado);
+			Assert.AreEqual(numeroPiConDosDecimales, resultado);
+        }
+
+		[TestMethod]
+		public void TomarNDecimales()
+        {
+			var numeroDecimal = 7.3;
+
+			var calculadora = new Calculadora();
+			var resultado = calculadora.DevolverNDecimales(numeroDecimal);
+
+			Assert.AreEqual(numeroDecimal, resultado);
         }
 	}
 
