@@ -113,15 +113,43 @@ namespace Matematica.test
         }
 
 		[TestMethod]
-		public void TomarNDecimales()
-        {
-			var numeroDecimal = 7.3;
+		public void ObtenerUnNumeroConTresDecimales()
+		{
+			var numeroPiConDecimales = 3.14159265;
+			var numeroPiCon3Decimales = 3.141;
 
 			var calculadora = new Calculadora();
-			var resultado = calculadora.DevolverNDecimales(numeroDecimal);
+			var resultado = calculadora.TomarTresDecimales(numeroPiConDecimales);
 
-			Assert.AreEqual(numeroDecimal, resultado);
-        }
+			Assert.AreEqual(numeroPiCon3Decimales, resultado);
+		}
+
+		[TestMethod]
+		public void ObtenerNDecimales()
+		{
+			var numeroAureo = 1.61803398874989;
+			var numeroDeDecimales = 5;
+			var numeroEsperado = 1.61803;
+
+			var calculadora = new Calculadora();
+			var resultado = calculadora.TomarDecimales(numeroAureo,numeroDeDecimales);
+
+			Assert.AreEqual(numeroEsperado,resultado);
+		}
+
+		[TestMethod]
+		[ExpectedException(typeof(ArgumentException))]
+		public void ObtenerDecimalesNegativos()
+        {
+			var numeroDecimal = 1.61803398874989;
+			var numeroDeDecimales = -5;
+
+			var calculadora = new Calculadora();
+			_ = calculadora.TomarDecimales(numeroDecimal,numeroDeDecimales);
+		}
+
+		[TestMethod]
+		//crear una prueba que me devielkva solo un numeor entero de un decimal
 	}
 
 }

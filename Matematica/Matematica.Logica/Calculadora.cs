@@ -37,36 +37,66 @@ namespace Matematica.Logica
 			var numeroPaso1 = MoverLaComaALaDerecha2Veces(numeroConDecimales);
 			var numeroPaso2 = TomarParteEntera(numeroPaso1);
 			var numeroPaso3 = MoverLaComaALaIzquierda2Veces(numeroPaso2);
-
-			//numeroConDecimales=(numeroConDecimales * dato mueve coma)/10;
-			//numeroConDecimales = (numeroConDecimales *10)/ 10;
-			//String.Format("{0,10:0.-10}", numeroConDecimales);
-
-			numeroConDecimales = numeroPaso2*numeroPaso1/numeroPaso3;
-			return numeroConDecimales;
+			return numeroPaso3;
         }
 
 		private double MoverLaComaALaDerecha2Veces(double numeroConDecimales)
         {
-			return numeroConDecimales/0.1;
+			return numeroConDecimales*100;
 		}
 
-		private double TomarParteEntera(double numeroPaso1)
+		private double TomarParteEntera(double numeroConDecimales)
         {
-			//numeroPaso1 = 3;
-			return numeroPaso1;
+			return Math.Truncate(numeroConDecimales);
 		}
 
-		private double MoverLaComaALaIzquierda2Veces(double numeroPaso2)
+		private double MoverLaComaALaIzquierda2Veces(double numero)
         {
-			return numeroPaso2*10;
+			return numero/100;
+		}
+	
+		public double TomarTresDecimales(double numeroConDecimales)
+        {
+			var numeroPaso1 = MoverLaComaALaDerecha3Veces(numeroConDecimales);
+			var numeroPaso2 = TomarParteEntera(numeroPaso1);
+			var numeroPaso3 = MoverLaComaALaIzquierda3Veces(numeroPaso2);
+			return numeroPaso3;
 		}
 
-		public double DevolverNDecimales(double numeroAConvertir)
+        private double MoverLaComaALaIzquierda3Veces(double numero)
         {
-			numeroAConvertir =  numeroAConvertir*0.000001/100;
-			return numeroAConvertir;
+			return numero / 1000;
+        }
+
+        private double MoverLaComaALaDerecha3Veces(double numero)
+        {
+			return numero *1000.0;
+        }
+
+		public double TomarDecimales(double numero, int numeroDeDecimales)
+        {
+			if (numeroDeDecimales < 0)
+				throw new ArgumentException("Un numero decimal debe ser > 0");
+
+			var numeroPaso1 = MoverLaComaALaDerecha(numero,numeroDeDecimales);
+			var numeroPaso2 = TomarParteEntera(numeroPaso1);
+			var numeroPaso3 = MoverLaComaALaIzquierda(numeroPaso2, numeroDeDecimales);
+			return numeroPaso3;
+        }
+
+		private double MoverLaComaALaIzquierda(double numero, int numeroDeDecimales)
+		{
+			//1 -> dividir 10;
+			//2 -> dividir 100;
+			//3 -> dividir 1000;
+			//4 -> dividir 10000;
+			return numero /Math.Pow(10 ,numeroDeDecimales);
+        }
+
+        private double MoverLaComaALaDerecha(double numero, int numeroDeDecimales)
+        {
+			return numero * Math.Pow(10, numeroDeDecimales);
 		}
-	}
+    }
 
 }
