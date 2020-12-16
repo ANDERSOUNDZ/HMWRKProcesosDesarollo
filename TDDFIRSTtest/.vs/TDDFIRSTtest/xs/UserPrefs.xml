@@ -1,24 +1,13 @@
-﻿<Properties StartupConfiguration="{4703C3DA-F1D0-4296-A791-7F1298106E24}|Pruebas unitarias">
+﻿<Properties StartupConfiguration="{4703C3DA-F1D0-4296-A791-7F1298106E24}|Default">
   <MonoDevelop.Ide.ItemProperties.TDDFIRSTtest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TDDFIRSTtest/CuandoVoyAComprarUnProducto.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TDDFIRSTtest/Calculadora.cs">
     <Files>
-      <File FileName="TDDFIRSTtest/UnitTest1.cs" Line="26" Column="34" />
-      <File FileName="TDDFIRSTtest/Calculadora.cs" Line="10" Column="35" />
+      <File FileName="TDDFIRSTtest/Calculadora.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TDDFIRSTtest" expanded="True">
-            <Node name="TDDFIRSTtest" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="CuandoVoyAComprarUnProducto.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="TDDFIRSTtest" expanded="True" selected="True" />
+          <Node name="TDDFIRSTtest" expanded="True" />
         </State>
       </Pad>
     </Pads>

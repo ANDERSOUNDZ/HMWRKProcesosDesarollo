@@ -5721,11 +5721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/TDDFIRSTtest/TDDFIRSTtest/TDDFIRSTtest.csproj",
-      "projectName": "TDDFIRSTtest",
-      "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/TDDFIRSTtest/TDDFIRSTtest/TDDFIRSTtest.csproj",
+      "projectUniqueName": "/Users/andersonchanchay/Projects/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
+      "projectName": "HuffmanCodingAlgoritmo",
+      "projectPath": "/Users/andersonchanchay/Projects/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
       "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
-      "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/TDDFIRSTtest/TDDFIRSTtest/obj/",
+      "outputPath": "/Users/andersonchanchay/Projects/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andersonchanchay/.config/NuGet/NuGet.Config"
@@ -5779,18 +5779,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.8, 3.1.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
