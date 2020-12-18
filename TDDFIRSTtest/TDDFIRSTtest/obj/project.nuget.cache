@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WNANJGAg1CerXZzwM8iQ+oKxhSK0HSgBe1MbuUyix9yzs0nLBdIrB3xFE932shx4vZS8sXLrosTqCIn3MeqdZA==",
+  "dgSpecHash": "CW2pzK5ad/eoUgS0U27qz9UGOouj+FYtmTZq/+gOolukrA2yiTxm/iS7INx8eLulJoCV+nHkrqKny/Pvff3oKg==",
   "success": true,
   "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/TDDFIRSTtest/TDDFIRSTtest/TDDFIRSTtest.csproj",
   "expectedPackageFiles": [
@@ -90,8 +90,7 @@
     "/Users/andersonchanchay/.nuget/packages/system.threading.tasks.extensions/4.3.0/system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "/Users/andersonchanchay/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/andersonchanchay/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/andersonchanchay/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/andersonchanchay/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+    "/Users/andersonchanchay/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

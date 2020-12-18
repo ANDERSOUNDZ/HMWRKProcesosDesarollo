@@ -15,16 +15,28 @@ namespace TDDFIRSTtest
             return (costoDeProducto/100)* descuento;
         }
 
-        internal double ObtenerValorTotalConDescuento(double valorDelProducto, int descuento)
+        internal double ObtenerValorTotalConDescuentoRound(double valorDelProducto, int descuento)
         {
-            var ahorroDolar = Mover2PosicionesAlAIzquierdaYMultiplicarYRestarElAhorroEnDolares(valorDelProducto, descuento);
+            var ahorroDolar = Mover2PosicionesAlAIzquierdaYMultiplicarYRestarElAhorroEnDolaresRound(valorDelProducto, descuento);
             var valorTotal = valorDelProducto - ahorroDolar ;
             return valorTotal;
         }
 
-        private double Mover2PosicionesAlAIzquierdaYMultiplicarYRestarElAhorroEnDolares(double valorDelProducto, int descuento)
+        private double Mover2PosicionesAlAIzquierdaYMultiplicarYRestarElAhorroEnDolaresRound(double valorDelProducto, int descuento)
         {
             return Math.Round(valorDelProducto/ 100) * descuento;
+        }
+
+        internal double ObtenerValorTotalConDescuentoAbs(int valorDelProducto, int descuento)
+        {
+            var ahorroDolar = Mover2PosicionesAlAIzquierdaYMultiplicarYRestarElAhorroEnDolaresAbs(valorDelProducto, descuento);
+            var valorTotal = valorDelProducto - ahorroDolar;
+            return valorTotal;
+        }
+
+        private double Mover2PosicionesAlAIzquierdaYMultiplicarYRestarElAhorroEnDolaresAbs(int valorDelProducto, int descuento)
+        {
+            return Math.Abs(valorDelProducto / 100) * descuento;
         }
     }
 }
