@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/bin/Debug/netcoreapp3.1/Matematica.Logica.deps.json
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/bin/Debug/netcoreapp3.1/Matematica.Logica.dll
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/bin/Debug/netcoreapp3.1/Matematica.Logica.pdb
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/obj/Debug/netcoreapp3.1/Matematica.Logica.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/obj/Debug/netcoreapp3.1/Matematica.Logica.AssemblyInfo.cs
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/obj/Debug/netcoreapp3.1/Matematica.Logica.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/obj/Debug/netcoreapp3.1/Matematica.Logica.dll
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/obj/Debug/netcoreapp3.1/Matematica.Logica.pdb
+/Users/andersonchanchay/Projects/Matematica/Matematica.Logica/obj/Debug/netcoreapp3.1/Matematica.Logica.csprojAssemblyReference.cache

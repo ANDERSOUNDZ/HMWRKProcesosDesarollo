@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1429F425-B42A-4EFA-9D44-F176ED00C414}|Default">
+  <MonoDevelop.Ide.ItemProperties.Matematica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matematica.Logica/Calculadora.cs">
+    <Files>
+      <File FileName="Matematica/CalculadoraTest.cs" Line="178" Column="4" />
+      <File FileName="Matematica.Logica/Calculadora.cs" Line="102" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Matematica" expanded="True">
+            <Node name="Matematica" expanded="True" />
+            <Node name="Matematica.Logica" expanded="True">
+              <Node name="Calculadora.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Matematica" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

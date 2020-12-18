@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TI5LXuppni78+fUyEYenzD2xXH8ewqkJeJQL9rO3LgDrmdo8YCaXjThUe8NZyFBKs69VDql+8BRpGo1Yhoz3Q==",
+  "dgSpecHash": "s1FsG0rJsBV8HKDEMpZAfub1yFrKVXbPR3OqpQLUDS9nahnxTT0gxPrseaOtA8Hy9eV3dHc9ZCun2uKhIn+3tw==",
   "success": true,
-  "projectFilePath": "/Users/andersonchanchay/Projects/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
   "expectedPackageFiles": [
     "/Users/andersonchanchay/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/andersonchanchay/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

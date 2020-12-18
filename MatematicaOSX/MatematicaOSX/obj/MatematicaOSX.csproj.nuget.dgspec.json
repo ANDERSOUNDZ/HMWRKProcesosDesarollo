@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andersonchanchay/Projects/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj": {}
+    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj": {}
   },
   "projects": {
-    "/Users/andersonchanchay/Projects/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj": {
+    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andersonchanchay/Projects/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj",
+        "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj",
         "projectName": "MatematicaOSX",
-        "projectPath": "/Users/andersonchanchay/Projects/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj",
+        "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/MatematicaOSX/MatematicaOSX/MatematicaOSX.csproj",
         "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
-        "outputPath": "/Users/andersonchanchay/Projects/MatematicaOSX/MatematicaOSX/obj/",
+        "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/MatematicaOSX/MatematicaOSX/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andersonchanchay/.config/NuGet/NuGet.Config"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

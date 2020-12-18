@@ -1,32 +1,3 @@
 ﻿<Properties StartupConfiguration="{BB373C0A-F640-4B6F-83EC-0ABD8A4FEE4D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MatematicaOSX/UnitTest1.cs">
-    <Files>
-      <File FileName="MatematicaOSX/UnitTest1.cs" Line="55" Column="1" />
-      <File FileName="MatematicaOSX/Calculadora.cs" Line="22" Column="39" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MatematicaOSX" expanded="True">
-            <Node name="MatematicaOSX" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="UnitTest1.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="MatematicaOSX" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MatematicaOSX PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

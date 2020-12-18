@@ -16,7 +16,10 @@ namespace MatematicaOSX
             set { testContextInstance = value; }
         }
         /*
+         * ESTE PROCESO SE DESARROLLA EN WINDOWS CON .NET FRAMEWORK,
+         * MI SISTEMA OPERATIVO ES MAC, Y CAMBIAR CIERTOS ASPECTOS.
         [TestMethod]
+        
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV",
             "|DataDirectory|\\data.csv", "data#csv", DataAccessMethod.Sequential),
             DeploymentItem("data.csv")]
@@ -33,6 +36,14 @@ namespace MatematicaOSX
             Assert.AreEqual(esperado, resultado);
         }
         */
+
+        [TestMethod]
+        [DataRow(1, 2, DisplayName = "Sequential numbers")]
+        [DataRow(2, 2, DisplayName = "Equal numbers")]
+        public void TestSomeNumbers(int x, int y)
+        {
+            Assert.AreEqual(x, y);
+        }
 
         [TestMethod]
         public void SacoRaizCuadradaDeUnNumeroPositivoObtengoPositivo()
@@ -55,6 +66,5 @@ namespace MatematicaOSX
 
             Assert.ThrowsException<ArgumentException>(()=>  calculadora.RaizCuadrada(numero1));
         }
-
     }
 }

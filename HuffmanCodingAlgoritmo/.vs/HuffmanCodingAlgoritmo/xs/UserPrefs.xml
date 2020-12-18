@@ -1,23 +1,21 @@
 ﻿<Properties StartupConfiguration="{0990C812-8031-4797-8FE0-E8185104F278}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HuffmanCodingAlgoritmo/Arbol.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HuffmanCodingAlgoritmo/Compresor.cs">
     <Files>
-      <File FileName="HuffmanCodingAlgoritmo/UnitTest1.cs" Line="9" Column="23" />
-      <File FileName="HuffmanCodingAlgoritmo/ProcesoHuffman.cs" Line="8" Column="12" />
-      <File FileName="HuffmanCodingAlgoritmo/Arbol.cs" Line="6" Column="21" />
+      <File FileName="HuffmanCodingAlgoritmo/Compresor.cs" Line="41" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HuffmanCodingAlgoritmo" expanded="True">
             <Node name="HuffmanCodingAlgoritmo" expanded="True">
-              <Node name="Arbol.cs" selected="True" />
+              <Node name="Compresor.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.HuffmanCodingAlgoritmo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HuffmanCodingAlgoritmo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
