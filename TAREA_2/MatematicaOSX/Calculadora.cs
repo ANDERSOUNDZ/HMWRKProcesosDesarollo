@@ -13,10 +13,14 @@ namespace MatematicaOSX
                 sum += 1;
             }
             return sum;
-
         }
 
-        internal double RaizCuadrada(double numero1)
+        public int AumentarEnteroNegativo(int numeroEntero1, int numeroEntero2)
+        {
+            return numeroEntero1 + (numeroEntero2);
+        }
+
+        internal static double RaizCuadrada(double numero1)
         {
             if (numero1 < 0)
                 throw new ArgumentException("No me enviesvalores negativos");

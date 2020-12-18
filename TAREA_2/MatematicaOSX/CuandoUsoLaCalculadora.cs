@@ -36,14 +36,29 @@ namespace MatematicaOSX
             Assert.AreEqual(esperado, resultado);
         }
         */
+        [TestMethod]
+        [DataRow(1, 2, 3)]
+        public void AumentarEntero(int numeroEntero1, int numeroEntero2, int esperado)
+        {
+            var calculadora = new Calculadora();
+            int resultado = calculadora.AumentarEntero(numeroEntero1, numeroEntero2);
+
+            Assert.AreEqual(esperado, resultado, "numeroEntero1:<{0}> numeroEntero2:<{1}>",
+            new object[] { numeroEntero1, numeroEntero2 });
+        }
 
         [TestMethod]
-        [DataRow(1, 2, DisplayName = "Sequential numbers")]
-        [DataRow(2, 2, DisplayName = "Equal numbers")]
-        public void TestSomeNumbers(int x, int y)
+        [DataRow(2, -3, -1)]
+        public void AumentarEnteroNegativo(int numeroEntero1, int numeroEntero2, int esperado)
         {
-            Assert.AreEqual(x, y);
+            var calculadora = new Calculadora();
+            int resultado = calculadora.AumentarEnteroNegativo(numeroEntero1, numeroEntero2);
+
+            Assert.AreEqual(esperado, resultado, "",
+            new object[] { numeroEntero1, numeroEntero2 });
         }
+
+
 
         [TestMethod]
         public void SacoRaizCuadradaDeUnNumeroPositivoObtengoPositivo()
@@ -52,7 +67,7 @@ namespace MatematicaOSX
             var esperado = 5;
 
             var calculadora = new Calculadora();
-            var resultado = calculadora.RaizCuadrada(numero1);
+            var resultado = Calculadora.RaizCuadrada(numero1);
 
             Assert.AreEqual(esperado,resultado);
         }
@@ -64,7 +79,7 @@ namespace MatematicaOSX
 
             var calculadora = new Calculadora();
 
-            Assert.ThrowsException<ArgumentException>(()=>  calculadora.RaizCuadrada(numero1));
+            Assert.ThrowsException<ArgumentException>(()=> Calculadora.RaizCuadrada(numero1));
         }
     }
 }

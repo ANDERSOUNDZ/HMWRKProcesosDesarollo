@@ -100,7 +100,7 @@ namespace Matematica.Logica
 
         public int AumentarEntero(int numeroEntero1, int numeroEntero2)
         {	
-			return numeroEntero1 + (numeroEntero2); ;
+			return numeroEntero1 + (numeroEntero2); 
 		}
     }
 
