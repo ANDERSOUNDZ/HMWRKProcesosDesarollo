@@ -16,6 +16,7 @@ namespace HuffmanCodingAlgoritmo
             BitArray cadenaComprimida = compresor.Huffman(cadenaSinComprimir);
 
             Assert.IsNotNull(cadenaComprimida);
+            //Assert.IsTrue(cadenaComprimida.Length > 0);
             Assert.IsTrue(cadenaComprimida.Length < tamañoInicial);
         }
     }

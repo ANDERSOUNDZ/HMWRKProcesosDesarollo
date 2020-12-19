@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj": {}
+    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HUFFMAN_CODING_ALGORITM/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj": {}
   },
   "projects": {
-    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj": {
+    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HUFFMAN_CODING_ALGORITM/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
+        "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HUFFMAN_CODING_ALGORITM/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
         "projectName": "HuffmanCodingAlgoritmo",
-        "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
+        "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HUFFMAN_CODING_ALGORITM/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo.csproj",
         "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
-        "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HuffmanCodingAlgoritmo/HuffmanCodingAlgoritmo/obj/",
+        "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/HUFFMAN_CODING_ALGORITM/HuffmanCodingAlgoritmo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andersonchanchay/.config/NuGet/NuGet.Config"
