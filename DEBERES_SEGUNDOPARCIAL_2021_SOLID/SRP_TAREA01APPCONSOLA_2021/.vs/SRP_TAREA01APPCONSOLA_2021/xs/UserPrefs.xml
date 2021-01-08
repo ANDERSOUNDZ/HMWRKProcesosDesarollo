@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9F09441A-FBAF-4721-8FBC-A5B7478F337B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SRP_TAREA01APPCONSOLA_2021/Texto.cs">
+    <Files>
+      <File FileName="SRP_TAREA01APPCONSOLA_2021/Program.cs" Line="22" Column="86" />
+      <File FileName="SRP_TAREA01APPCONSOLA_2021/Obra.cs" Line="8" Column="46" />
+      <File FileName="SRP_TAREA01APPCONSOLA_2021/Texto.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SRP_TAREA01APPCONSOLA_2021" expanded="True">
+            <Node name="SRP_TAREA01APPCONSOLA_2021" expanded="True">
+              <Node name="Texto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SRP__TAREA01APPCONSOLA__2021 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
