@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjemploNicolasSuares/FacturaFactorizada.cs">
+    <Files>
+      <File FileName="EjemploNicolasSuares/Class1.cs" Line="2" Column="1" />
+      <File FileName="EjemploNicolasSuares/Deduccion.cs" Line="8" Column="1" />
+      <File FileName="../../Documents/proy/SRPEjemploNicolas/Ejemplo/FacturaFactorizada.cs" Line="12" Column="29" />
+      <File FileName="EjemploNicolasSuares/Iva.cs" Line="8" Column="31" />
+      <File FileName="EjemploNicolasSuares/FacturaFactorizada.cs" Line="28" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EjemploNicolasSuares" expanded="True">
+            <Node name="EjemploNicolasSuares" expanded="True">
+              <Node name="FacturaFactorizada.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

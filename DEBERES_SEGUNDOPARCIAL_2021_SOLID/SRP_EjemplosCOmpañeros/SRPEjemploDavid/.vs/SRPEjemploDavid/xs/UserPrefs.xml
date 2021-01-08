@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SRPEjemploDavid/Iva.cs">
+    <Files>
+      <File FileName="SRPEjemploDavid/Class1.cs" Line="19" Column="2" />
+      <File FileName="SRPEjemploDavid/Factura.cs" Line="4" Column="19" />
+      <File FileName="SRPEjemploDavid/FacturaFactorizada.cs" Line="4" Column="1" />
+      <File FileName="SRPEjemploDavid/Iva.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SRPEjemploDavid" expanded="True">
+            <Node name="SRPEjemploDavid" expanded="True">
+              <Node name="Iva.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SRPEjemploDavid FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

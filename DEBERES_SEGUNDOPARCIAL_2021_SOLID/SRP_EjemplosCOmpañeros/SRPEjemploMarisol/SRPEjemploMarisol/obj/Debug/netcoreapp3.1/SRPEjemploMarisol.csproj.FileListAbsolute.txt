@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/bin/Debug/netcoreapp3.1/SRPEjemploMarisol.deps.json
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/bin/Debug/netcoreapp3.1/SRPEjemploMarisol.dll
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/bin/Debug/netcoreapp3.1/SRPEjemploMarisol.pdb
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/obj/Debug/netcoreapp3.1/SRPEjemploMarisol.csprojAssemblyReference.cache
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/obj/Debug/netcoreapp3.1/SRPEjemploMarisol.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/obj/Debug/netcoreapp3.1/SRPEjemploMarisol.AssemblyInfo.cs
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/obj/Debug/netcoreapp3.1/SRPEjemploMarisol.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/obj/Debug/netcoreapp3.1/SRPEjemploMarisol.dll
+/Users/andersonchanchay/Projects/SRPEjemploMarisol/SRPEjemploMarisol/obj/Debug/netcoreapp3.1/SRPEjemploMarisol.pdb
