@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SRPejemplos/SRP/Almacen.cs">
+    <Files>
+      <File FileName="SRPejemplos/AdmnistradorMiembro.cs" Line="27" Column="10" />
+      <File FileName="SRPejemplos/SRP/Geometria.cs" Line="19" Column="10" />
+      <File FileName="SRPejemplos/SRP/Dibujo.cs" />
+      <File FileName="SRPejemplos/SRP/Cuadrado.cs" Line="10" Column="27" />
+      <File FileName="SRPejemplos/SRP/Almacen.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SRPejemplos" expanded="True">
+            <Node name="SRPejemplos" expanded="True">
+              <Node name="SRP" expanded="True">
+                <Node name="Almacen.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SRPejemplos FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{0990C812-8031-4797-8FE0-E8185104F278}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Downloads/CompresorTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HuffmanCodingAlgoritmo/ProbarCompresor.cs">
     <Files>
-      <File FileName="HuffmanCodingAlgoritmo/ProbarCompresor.cs" Line="19" Column="16" />
+      <File FileName="HuffmanCodingAlgoritmo/ProbarCompresor.cs" Line="19" Column="9" />
+      <File FileName="../../../../Downloads/CompresorTest.cs" Line="11" Column="10" />
       <File FileName="HuffmanCodingAlgoritmo/EmptyClass.cs" Line="47" Column="42" />
       <File FileName="HuffmanCodingAlgoritmo/EmptyClass.cs" Line="22" Column="1" />
-      <File FileName="../../../../Downloads/CompresorTest.cs" Line="12" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
