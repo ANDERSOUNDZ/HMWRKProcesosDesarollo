@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/bin/Debug/netcoreapp3.1/SRPLibro.deps.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/bin/Debug/netcoreapp3.1/SRPLibro.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/bin/Debug/netcoreapp3.1/SRPLibro.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/Debug/netcoreapp3.1/SRPLibro.csprojAssemblyReference.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/Debug/netcoreapp3.1/SRPLibro.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/Debug/netcoreapp3.1/SRPLibro.AssemblyInfo.cs
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/Debug/netcoreapp3.1/SRPLibro.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/Debug/netcoreapp3.1/SRPLibro.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/Debug/netcoreapp3.1/SRPLibro.pdb

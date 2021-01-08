@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="SRPLibro/Texto.cs">
     <Files>
-      <File FileName="SRPLibro/GestionPrestamo.cs" Line="10" Column="1" />
-      <File FileName="SRPLibro/Texto.cs" Line="6" Column="6" />
-      <File FileName="SRPLibro/Libro.cs" Line="27" Column="10" />
+      <File FileName="SRPLibro/EmptyClass.cs" Line="13" Column="49" />
+      <File FileName="SRPLibro/Texto.cs" Line="6" Column="10" />
+      <File FileName="SRPLibro/Obra.cs" Line="3" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SRPLibro FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

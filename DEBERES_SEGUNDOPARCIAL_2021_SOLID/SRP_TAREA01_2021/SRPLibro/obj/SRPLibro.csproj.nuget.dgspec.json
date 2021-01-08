@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andersonchanchay/Projects/SRPLibro/SRPLibro/SRPLibro.csproj": {}
+    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/SRPLibro.csproj": {}
   },
   "projects": {
-    "/Users/andersonchanchay/Projects/SRPLibro/SRPLibro/SRPLibro.csproj": {
+    "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/SRPLibro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andersonchanchay/Projects/SRPLibro/SRPLibro/SRPLibro.csproj",
+        "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/SRPLibro.csproj",
         "projectName": "SRPLibro",
-        "projectPath": "/Users/andersonchanchay/Projects/SRPLibro/SRPLibro/SRPLibro.csproj",
+        "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/SRPLibro.csproj",
         "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
-        "outputPath": "/Users/andersonchanchay/Projects/SRPLibro/SRPLibro/obj/",
+        "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/SRP_TAREA01_2021/SRPLibro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andersonchanchay/.config/NuGet/NuGet.Config"

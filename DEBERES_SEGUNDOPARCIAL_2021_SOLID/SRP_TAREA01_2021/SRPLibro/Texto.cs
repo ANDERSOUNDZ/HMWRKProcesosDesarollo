@@ -1,18 +1,12 @@
 ﻿using System;
-
 namespace SRPLibro
 {
-    internal class Texto
+    class Texto
     {
-
-        internal static void GuardarTexto(int id)
+        public string Autor = "J.K.Rowling";
+        public void Describir()
         {
-            throw new NotImplementedException();
-        }
-
-        internal static void EliminarTexto(int id)
-        {
-            throw new NotImplementedException();
+            Console.WriteLine("Alquilaste el libro de harry potter");
         }
     }
 }
