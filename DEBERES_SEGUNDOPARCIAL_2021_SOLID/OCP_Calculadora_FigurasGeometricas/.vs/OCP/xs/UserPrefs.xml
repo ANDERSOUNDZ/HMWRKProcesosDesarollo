@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D92DAEE1-675F-4103-9E3B-11FCFC75C06C}|Default">
+  <MonoDevelop.Ide.ItemProperties.OCPTerminal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OCPTerminal/Refactorizacion/Cubo.cs">
+    <Files>
+      <File FileName="OCPTerminal/Program.cs" Line="39" Column="94" />
+      <File FileName="OCPTerminal/Refactorizacion/Esfera.cs" Line="13" Column="6" />
+      <File FileName="OCPTerminal/Refactorizacion/Cubo.cs" Line="7" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OCP" expanded="True">
+            <Node name="OCP" expanded="True" />
+            <Node name="OCPTerminal" expanded="True">
+              <Node name="Refactorizacion" expanded="True">
+                <Node name="Cubo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/bin/Debug/netcoreapp3.1/OCPTerminal.deps.json
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/bin/Debug/netcoreapp3.1/OCPTerminal.runtimeconfig.json
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/bin/Debug/netcoreapp3.1/OCPTerminal.runtimeconfig.dev.json
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/bin/Debug/netcoreapp3.1/OCPTerminal.dll
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/bin/Debug/netcoreapp3.1/OCPTerminal.pdb
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/obj/Debug/netcoreapp3.1/OCPTerminal.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/obj/Debug/netcoreapp3.1/OCPTerminal.AssemblyInfo.cs
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/obj/Debug/netcoreapp3.1/OCPTerminal.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/obj/Debug/netcoreapp3.1/OCPTerminal.dll
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/obj/Debug/netcoreapp3.1/OCPTerminal.pdb
+/Users/andersonchanchay/Projects/OCP/OCPTerminal/obj/Debug/netcoreapp3.1/OCPTerminal.genruntimeconfig.cache
