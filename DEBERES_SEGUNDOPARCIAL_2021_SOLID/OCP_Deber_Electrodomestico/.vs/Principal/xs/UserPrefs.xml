@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4D739AD6-74FE-4666-9782-172E0E0EC94F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Principal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Principal/Program.cs">
+    <Files>
+      <File FileName="Principal/Program.cs" Line="11" Column="19" />
+      <File FileName="Principal/EquipoElectronico.cs" Line="9" Column="25" />
+      <File FileName="Principal/Lavadora.cs" Line="9" Column="36" />
+      <File FileName="Principal/Refrigerador.cs" Line="11" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Principal" expanded="True">
+            <Node name="Principal" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

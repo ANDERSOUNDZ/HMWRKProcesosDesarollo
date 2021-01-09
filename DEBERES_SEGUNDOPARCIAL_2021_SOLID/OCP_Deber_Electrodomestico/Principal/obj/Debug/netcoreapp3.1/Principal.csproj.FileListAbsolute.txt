@@ -1,0 +1,12 @@
+/Users/andersonchanchay/Projects/Principal/Principal/bin/Debug/netcoreapp3.1/Principal.deps.json
+/Users/andersonchanchay/Projects/Principal/Principal/bin/Debug/netcoreapp3.1/Principal.runtimeconfig.json
+/Users/andersonchanchay/Projects/Principal/Principal/bin/Debug/netcoreapp3.1/Principal.runtimeconfig.dev.json
+/Users/andersonchanchay/Projects/Principal/Principal/bin/Debug/netcoreapp3.1/Principal.dll
+/Users/andersonchanchay/Projects/Principal/Principal/bin/Debug/netcoreapp3.1/Principal.pdb
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.AssemblyInfo.cs
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.dll
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.pdb
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.genruntimeconfig.cache
+/Users/andersonchanchay/Projects/Principal/Principal/obj/Debug/netcoreapp3.1/Principal.csprojAssemblyReference.cache
