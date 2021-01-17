@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0A40135B-5845-4E5C-8E38-2397D8D9CEA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_InyecDepenStructureMap/Mensaje1.cs">
+    <Files>
+      <File FileName="02_InyecDepenStructureMap/Program.cs" Line="9" Column="28" />
+      <File FileName="02_InyecDepenStructureMap/Contenedor.cs" Line="8" Column="10" />
+      <File FileName="02_InyecDepenStructureMap/IMensajes.cs" Line="7" Column="6" />
+      <File FileName="02_InyecDepenStructureMap/Mensaje1.cs" Line="9" Column="10" />
+      <File FileName="02_InyecDepenStructureMap/Mensaje2.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02_InyecDepenStructureMap" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02__InyecDepenStructureMap PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

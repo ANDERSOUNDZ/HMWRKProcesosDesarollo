@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Texto.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrendarLibro.cs">
     <Files>
       <File FileName="ArrendarLibro.cs" Line="1" Column="1" />
       <File FileName="Obra.cs" Line="1" Column="1" />
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="SRPLibro" expanded="True">
             <Node name="SRPLibro" expanded="True">
-              <Node name="Texto.cs" selected="True" />
+              <Node name="ArrendarLibro.cs" selected="True" />
             </Node>
           </Node>
         </State>

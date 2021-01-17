@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{20A7F3DC-21FA-4EC9-A58A-1CA7EA81676D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RectanguloTest/Rectangulo.cs">
+    <Files>
+      <File FileName="RectanguloTest/Rectangulo.cs" Line="17" Column="1" />
+      <File FileName="RectanguloTest/Cuadrado.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RectanguloTest" expanded="True">
+            <Node name="RectanguloTest" expanded="True">
+              <Node name="RectanguloTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RectanguloTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RectanguloTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

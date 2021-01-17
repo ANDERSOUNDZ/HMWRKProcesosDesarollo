@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvEMjdyibje9bv0Tc4OvfoLRLPa/EBLX1VI6Y80yc6ba/ne8tsTEGInyO5LktLW6iECL/aT8PC3ZS5emcSEQtA==",
+  "success": true,
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDependUnity/02_InyecDependUnity/02_InyecDependUnity.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonchanchay/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/unity/5.11.9/unity.5.11.9.nupkg.sha512"
+  ],
+  "logs": []
+}

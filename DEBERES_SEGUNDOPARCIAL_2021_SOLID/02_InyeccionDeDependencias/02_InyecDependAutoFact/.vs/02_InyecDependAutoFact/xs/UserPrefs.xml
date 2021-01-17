@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5C4F70F7-85B9-489B-A3D0-9D6B4200539F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_InyecDependAutoFact/Program.cs">
+    <Files>
+      <File FileName="02_InyecDependAutoFact/EstudianteModulo.cs" Line="4" Column="2" />
+      <File FileName="02_InyecDependAutoFact/EstudianteRepositorio.cs" Line="5" Column="6" />
+      <File FileName="02_InyecDependAutoFact/iEstudianteRepositorio.cs" Line="6" Column="25" />
+      <File FileName="02_InyecDependAutoFact/IProfesorRepositorio.cs" Line="1" Column="1" />
+      <File FileName="02_InyecDependAutoFact/Profesor.cs" Line="1" Column="1" />
+      <File FileName="02_InyecDependAutoFact/ProfesorModulo.cs" Line="7" Column="25" />
+      <File FileName="02_InyecDependAutoFact/ProfesorRepositorio.cs" Line="1" Column="1" />
+      <File FileName="02_InyecDependAutoFact/Program.cs" Line="18" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02_InyecDependAutoFact" expanded="True">
+            <Node name="02_InyecDependAutoFact" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02__InyecDependAutoFact PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

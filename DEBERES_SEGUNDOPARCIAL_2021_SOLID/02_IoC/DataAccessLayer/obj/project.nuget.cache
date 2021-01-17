@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "baHfuYHQSVuWx6ieDfLU7JTQjofu5nwFkCXNYwZC/Yd7pA6ehP5h1WeoB9gmJoCgV7gT046mjyiDMxI8++dCPA==",
+  "success": true,
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_IoC/DataAccessLayer/DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonchanchay/.nuget/packages/system.componentmodel.composition/5.0.0/system.componentmodel.composition.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

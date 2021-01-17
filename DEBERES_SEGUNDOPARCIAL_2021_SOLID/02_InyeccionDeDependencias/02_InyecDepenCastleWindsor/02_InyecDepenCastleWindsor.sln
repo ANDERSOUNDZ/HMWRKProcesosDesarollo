@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_InyecDepenCastleWindsor", "02_InyecDepenCastleWindsor\02_InyecDepenCastleWindsor.csproj", "{B86E12B2-D202-4455-B20E-D776E1F8404F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86E12B2-D202-4455-B20E-D776E1F8404F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86E12B2-D202-4455-B20E-D776E1F8404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86E12B2-D202-4455-B20E-D776E1F8404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86E12B2-D202-4455-B20E-D776E1F8404F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC4D6C5-8868-4264-ADFF-4590963066F3}
+	EndGlobalSection
+EndGlobal

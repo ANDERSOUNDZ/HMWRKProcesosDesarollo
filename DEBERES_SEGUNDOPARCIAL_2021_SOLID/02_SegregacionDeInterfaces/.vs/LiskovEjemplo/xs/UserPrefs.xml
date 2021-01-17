@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E4C02885-983E-4F46-AC27-C10D51F5E27C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SegregacionInterfaces/Refactorizacion/AdultoMayor.cs">
+    <Files>
+      <File FileName="LiskovEjemplo/Program.cs" Line="8" Column="10" />
+      <File FileName="LiskovEjemplo/CongeLador.cs" Line="8" Column="1" />
+      <File FileName="LiskovEjemplo/InterfaceCongelar.cs" Line="3" Column="22" />
+      <File FileName="LiskovEjemplo/Electrodomestico.cs" Line="9" Column="42" />
+      <File FileName="SegregacionInterfaces/Refactorizacion/IElectoral.cs" Line="1" Column="1" />
+      <File FileName="SegregacionInterfaces/Refactorizacion/Estudiante.cs" Line="1" Column="1" />
+      <File FileName="SegregacionInterfaces/Refactorizacion/AdultoMayor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LiskovEjemplo" expanded="True">
+            <Node name="SegregacionInterfaces" expanded="True">
+              <Node name="ICiudadano.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LiskovEjemplo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SegregacionInterfaces FirstBuild="True" />
+</Properties>

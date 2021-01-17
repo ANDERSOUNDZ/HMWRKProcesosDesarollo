@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNIm8SAehRmkT3c5UvB04GqaRxEjueGW7wrAs5OjhYVZt00/vEi6QayZ0xLWccW7ne5lXJgjUcgHNFAiAmZNtQ==",
+  "success": true,
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_IoC/DataAnderson/DataAnderson.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonchanchay/.nuget/packages/system.componentmodel.composition/5.0.0/system.componentmodel.composition.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

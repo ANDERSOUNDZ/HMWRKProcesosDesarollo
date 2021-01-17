@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A469F6C3-004A-439A-A69B-C01B1C834056}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjemploNuevoLiskovSubstitucion/Program.cs">
+    <Files>
+      <File FileName="EjemploNuevoLiskovSubstitucion/Program.cs" Line="7" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EjemploNuevoLiskovSubstitucion" expanded="True">
+            <Node name="EjemploNuevoLiskovSubstitucion" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EjemploNuevoLiskovSubstitucion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8DC669BB-01B6-4384-B105-1BA2406F9368}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cuadrado.cs">
+    <Files>
+      <File FileName="UnitTest1.cs" Line="44" Column="6" />
+      <File FileName="../../../Downloads/LiskovTest/LiskovTest/RectanguloTest.cs" Line="44" Column="6" />
+      <File FileName="Cuadrado.cs" Line="10" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RectanguloTest" expanded="True">
+            <Node name="RectanguloTest" expanded="True">
+              <Node name="Cuadrado.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RectanguloTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RectanguloTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

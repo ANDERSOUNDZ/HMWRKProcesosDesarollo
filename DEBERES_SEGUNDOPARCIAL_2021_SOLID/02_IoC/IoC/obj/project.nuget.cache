@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkv1KN0w7pZ4WfKlaeD/m01h8YT11YAHbcpN68YPfQcoApk9G7tJOAbB0tDLaz07axM9WfHf4OqP0TSD4t9ndg==",
+  "success": true,
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_IoC/IoC/IoC.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonchanchay/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/system.componentmodel.composition/5.0.0/system.componentmodel.composition.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "00sW5eeNyn+2tnWz4zWBj8KEVXYSjSI/WRN+6xV1cGZma80yb9qpJ8l5vi540vzSWTEfFHiQykvXyMyc3m4SnA==",
+  "success": true,
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDependAutoFact/02_InyecDependAutoFact/02_InyecDependAutoFact.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonchanchay/.nuget/packages/autofac/6.1.0/autofac.6.1.0.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/autofac.extensions.dependencyinjection/7.1.0/autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
