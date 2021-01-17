@@ -8,4 +8,7 @@
 
 ---
 
+# **Video Ninject**
+[Video de Ninject por Anderson Chanchay](https://www.youtube.com/watch?v=ECn4CLBVSFw)
+
 ---

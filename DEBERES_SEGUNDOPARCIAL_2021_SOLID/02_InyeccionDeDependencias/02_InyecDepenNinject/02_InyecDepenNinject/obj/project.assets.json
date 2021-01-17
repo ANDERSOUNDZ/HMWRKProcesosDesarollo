@@ -728,11 +728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDepenNinject/02_InyecDepenNinject/02_InyecDepenNinject.csproj",
+      "projectUniqueName": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyeccionDeDependencias/02_InyecDepenNinject/02_InyecDepenNinject/02_InyecDepenNinject.csproj",
       "projectName": "02_InyecDepenNinject",
-      "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDepenNinject/02_InyecDepenNinject/02_InyecDepenNinject.csproj",
+      "projectPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyeccionDeDependencias/02_InyecDepenNinject/02_InyecDepenNinject/02_InyecDepenNinject.csproj",
       "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
-      "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDepenNinject/02_InyecDepenNinject/obj/",
+      "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyeccionDeDependencias/02_InyecDepenNinject/02_InyecDepenNinject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andersonchanchay/.config/NuGet/NuGet.Config"

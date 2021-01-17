@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6+v7r08shOIjscp9Y1IMJVkTyTZKdDwIuXyOuLt7R7LnONBdLtfuXoBLT5fJzlcQaP/mHDVuNWUtFKOeU5Rqw==",
+  "dgSpecHash": "ou/BpaVM1eNzt+HOajI4BQx/Q5tE+Diroq7rcTb/9mgAG5Y3KMM9N/OWTsUx7SyYWGKSrdSd9Aq+U0NsOyZfyw==",
   "success": true,
-  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDepenNinject/02_InyecDepenNinject/02_InyecDepenNinject.csproj",
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyeccionDeDependencias/02_InyecDepenNinject/02_InyecDepenNinject/02_InyecDepenNinject.csproj",
   "expectedPackageFiles": [
     "/Users/andersonchanchay/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/andersonchanchay/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
