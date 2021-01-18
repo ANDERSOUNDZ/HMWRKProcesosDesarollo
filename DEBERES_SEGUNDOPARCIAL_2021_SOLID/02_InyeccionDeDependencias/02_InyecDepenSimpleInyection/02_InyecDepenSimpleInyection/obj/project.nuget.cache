@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ockx0ibnpR5+Y9KyTIfOve7+LmHSggz9TpuYgTW2LBIcu+EMrvsiACLtsEB/68lOck6zXHUAOCvDuqxQ2sGRBg==",
+  "success": true,
+  "projectFilePath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/02_InyecDepenSimpleInyection/02_InyecDepenSimpleInyection/02_InyecDepenSimpleInyection.csproj",
+  "expectedPackageFiles": [
+    "/Users/andersonchanchay/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/simpleinjector/5.2.1/simpleinjector.5.2.1.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/system.componentmodel/4.0.1/system.componentmodel.4.0.1.nupkg.sha512",
+    "/Users/andersonchanchay/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
