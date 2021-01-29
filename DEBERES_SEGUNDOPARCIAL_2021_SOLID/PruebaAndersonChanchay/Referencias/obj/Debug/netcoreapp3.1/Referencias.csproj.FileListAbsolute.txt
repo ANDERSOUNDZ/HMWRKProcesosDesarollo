@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/bin/Debug/netcoreapp3.1/Referencias.deps.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/bin/Debug/netcoreapp3.1/Referencias.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/bin/Debug/netcoreapp3.1/Referencias.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/Referencias.csprojAssemblyReference.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/Referencias.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/Referencias.AssemblyInfo.cs
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/Referencias.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/Referencias.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/Referencias.pdb

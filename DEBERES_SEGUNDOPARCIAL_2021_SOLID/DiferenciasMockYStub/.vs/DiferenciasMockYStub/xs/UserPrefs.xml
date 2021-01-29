@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{14304E20-7E7D-4BF3-86E8-BC711E8DBBAA}|Default">
+  <MonoDevelop.Ide.ItemProperties.DiferenciasMockYStub PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiferenciasMockYStub/PersonaPrueba.cs">
+    <Files>
+      <File FileName="DiferenciasMockYStub/PersonaPrueba.cs" Line="21" Column="22" />
+      <File FileName="Calcular/Persona.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiferenciasMockYStub" expanded="True">
+            <Node name="Aplicante" expanded="True" />
+            <Node name="Calcular" expanded="True" />
+            <Node name="DiferenciasMockYStub" expanded="True">
+              <Node name="PersonaPrueba.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DiferenciasMockYStub" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/Persona.cs" relfile="Calcular/Persona.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

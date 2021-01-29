@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E164FCB6-2714-44C2-B1C3-ED8FE8DA1376}|Default">
+  <MonoDevelop.Ide.ItemProperties.PruebaJustMock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComercianteTest/Comerciante.cs">
+    <Files>
+      <File FileName="ComercianteTest/PruebaComerciante.cs" Line="1" Column="1" />
+      <File FileName="PruebaJustMock/ComercianteTest.cs" />
+      <File FileName="ComercianteTest/Comerciante.cs" Line="11" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaJustMock" expanded="True">
+            <Node name="ComercianteTest" expanded="True">
+              <Node name="Comerciante.cs" selected="True" />
+            </Node>
+            <Node name="PruebaJustMock" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PruebaJustMock" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/PruebaJustMock/Estudiante.cs" relfile="PruebaJustMock/Estudiante.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

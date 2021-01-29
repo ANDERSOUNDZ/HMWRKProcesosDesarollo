@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/bin/Debug/netcoreapp3.1/Calcular.deps.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/bin/Debug/netcoreapp3.1/Calcular.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/bin/Debug/netcoreapp3.1/Calcular.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/obj/Debug/netcoreapp3.1/Calcular.csprojAssemblyReference.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/obj/Debug/netcoreapp3.1/Calcular.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/obj/Debug/netcoreapp3.1/Calcular.AssemblyInfo.cs
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/obj/Debug/netcoreapp3.1/Calcular.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/obj/Debug/netcoreapp3.1/Calcular.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Calcular/obj/Debug/netcoreapp3.1/Calcular.pdb

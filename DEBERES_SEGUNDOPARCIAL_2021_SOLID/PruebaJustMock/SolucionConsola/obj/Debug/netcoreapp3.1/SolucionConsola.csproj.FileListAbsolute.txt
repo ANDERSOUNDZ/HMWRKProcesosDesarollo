@@ -1,0 +1,12 @@
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/bin/Debug/netcoreapp3.1/SolucionConsola.deps.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/bin/Debug/netcoreapp3.1/SolucionConsola.runtimeconfig.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/bin/Debug/netcoreapp3.1/SolucionConsola.runtimeconfig.dev.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/bin/Debug/netcoreapp3.1/SolucionConsola.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/bin/Debug/netcoreapp3.1/SolucionConsola.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.csprojAssemblyReference.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.AssemblyInfo.cs
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaJustMock/SolucionConsola/obj/Debug/netcoreapp3.1/SolucionConsola.genruntimeconfig.cache

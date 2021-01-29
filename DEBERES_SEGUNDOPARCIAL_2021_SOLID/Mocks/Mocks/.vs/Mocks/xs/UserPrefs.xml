@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B76C9ED7-BEFB-4B74-BCE0-2C89349E6751}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mocks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mocks/OrderStateTest.cs">
+    <Files>
+      <File FileName="Mocks/OrderStateTest.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mocks" expanded="True">
+            <Node name="Mocks" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="OrderStateTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Mocks" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

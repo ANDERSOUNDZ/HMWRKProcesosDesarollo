@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8C5AE887-A553-421E-BD58-1335765AD66C}|Default">
+  <MonoDevelop.Ide.ItemProperties.PruebaAndersonChanchay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaAndersonChanchay" expanded="True" selected="True">
+            <Node name="CompraComerciante" expanded="True" />
+            <Node name="PruebaAndersonChanchay" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PruebaAndersonChanchay" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/bin/Debug/netcoreapp3.1/Aplicante.deps.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/bin/Debug/netcoreapp3.1/Aplicante.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/bin/Debug/netcoreapp3.1/Aplicante.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/obj/Debug/netcoreapp3.1/Aplicante.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/obj/Debug/netcoreapp3.1/Aplicante.AssemblyInfo.cs
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/obj/Debug/netcoreapp3.1/Aplicante.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/obj/Debug/netcoreapp3.1/Aplicante.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/obj/Debug/netcoreapp3.1/Aplicante.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/DiferenciasMockYStub/Aplicante/obj/Debug/netcoreapp3.1/Aplicante.csprojAssemblyReference.cache

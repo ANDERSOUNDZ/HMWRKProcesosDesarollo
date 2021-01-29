@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E75DA3EC-8D7A-4DE7-A866-D90135C5152E}|Default">
+  <MonoDevelop.Ide.ItemProperties.JustMockTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JustMockTest/CineTest.cs">
+    <Files>
+      <File FileName="JustMockTest/CineTest.cs" Line="90" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JustMockTest" expanded="True">
+            <Node name="JustMockTest" expanded="True">
+              <Node name="CineTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="JustMockTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/bin/Debug/netcoreapp3.1/CompraComerciante.deps.json
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/bin/Debug/netcoreapp3.1/CompraComerciante.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/bin/Debug/netcoreapp3.1/CompraComerciante.pdb
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/CompraComerciante.csprojAssemblyReference.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/CompraComerciante.AssemblyInfoInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/CompraComerciante.AssemblyInfo.cs
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/CompraComerciante.csproj.CoreCompileInputs.cache
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/CompraComerciante.dll
+/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/Debug/netcoreapp3.1/CompraComerciante.pdb
