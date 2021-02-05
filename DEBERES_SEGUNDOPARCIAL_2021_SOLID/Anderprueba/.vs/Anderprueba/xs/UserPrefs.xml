@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{459C9EC7-4CE7-4889-A1F3-4B10E7693E43}|Default">
+  <MonoDevelop.Ide.ItemProperties.dddet FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.pasassss FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pasassss/featuree.feature">
+    <Files>
+      <File FileName="Anderprueba/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="dddet/UnitTest1.cs" Line="11" Column="1" />
+      <File FileName="dddet/mat.feature" Line="11" Column="45" />
+      <File FileName="dddet/mmmaattt.cs" Line="10" Column="30" />
+      <File FileName="pasassss/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="paosossss/Test.feature" Line="1" Column="1" />
+      <File FileName="paosossss/Test.feature.cs" Line="84" Column="53" />
+      <File FileName="pasassss/eventoo.cs" Line="15" Column="55" />
+      <File FileName="pasassss/seeepsss.cs" Line="1" Column="1" />
+      <File FileName="pasassss/featuree.feature" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Anderprueba" expanded="True">
+            <Node name="Anderprueba" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="dddet" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="paosossss" expanded="True">
+              <Node name="Test.feature" expanded="True" />
+            </Node>
+            <Node name="pasassss" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Anderprueba" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.paosossss FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Anderprueba FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

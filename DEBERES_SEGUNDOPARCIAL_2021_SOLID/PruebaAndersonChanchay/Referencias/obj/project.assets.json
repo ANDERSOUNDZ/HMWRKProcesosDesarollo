@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/andersonchanchay/.nuget/packages/": {}
+    "/Users/andersonchanchay/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -19,6 +20,9 @@
       "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
       "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/andersonchanchay/.config/NuGet/NuGet.Config"
       ],

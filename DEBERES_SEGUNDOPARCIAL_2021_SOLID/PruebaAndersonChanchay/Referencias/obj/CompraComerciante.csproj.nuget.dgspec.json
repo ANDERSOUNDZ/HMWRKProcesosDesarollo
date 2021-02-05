@@ -13,6 +13,9 @@
         "packagesPath": "/Users/andersonchanchay/.nuget/packages/",
         "outputPath": "/Users/andersonchanchay/Documents/Desarrollo/SolucionesC#/DEBERES_SEGUNDOPARCIAL_2021_SOLID/PruebaAndersonChanchay/Referencias/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/andersonchanchay/.config/NuGet/NuGet.Config"
         ],

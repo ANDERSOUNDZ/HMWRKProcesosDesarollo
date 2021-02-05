@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\bin\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.deps.json
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\bin\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.dll
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\bin\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.pdb
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\obj\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\obj\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\obj\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.AssemblyInfo.cs
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\obj\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\obj\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.dll
+C:\Users\User\source\repos\AndersonMiguelWeb\AndersonMiguelBiblioteca\obj\Debug\netcoreapp3.1\AndersonMiguelBiblioteca.pdb

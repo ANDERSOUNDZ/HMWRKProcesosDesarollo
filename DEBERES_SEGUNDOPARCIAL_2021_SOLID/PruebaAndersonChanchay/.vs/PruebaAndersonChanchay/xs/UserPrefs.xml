@@ -1,12 +1,17 @@
 ﻿<Properties StartupConfiguration="{8C5AE887-A553-421E-BD58-1335765AD66C}|Default">
   <MonoDevelop.Ide.ItemProperties.PruebaAndersonChanchay PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaAndersonChanchay/PruebaComerciante.cs">
+    <Files>
+      <File FileName="PruebaAndersonChanchay/PruebaComerciante.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PruebaAndersonChanchay" expanded="True" selected="True">
+          <Node name="PruebaAndersonChanchay" expanded="True">
             <Node name="CompraComerciante" expanded="True" />
-            <Node name="PruebaAndersonChanchay" expanded="True" />
+            <Node name="PruebaAndersonChanchay" expanded="True">
+              <Node name="PruebaComerciante.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
